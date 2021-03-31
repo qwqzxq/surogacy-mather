@@ -1,0 +1,30 @@
+{
+  "name": "angled-menu240817",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwqzxq/surMather.git"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Cheban Lubomir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwqzxq/surMather/issues"
+  },
+  "homepage": "https://github.com/qwqzxq/surMather#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0",
+    "sendmail": "^1.6.1"
+  }
+}
